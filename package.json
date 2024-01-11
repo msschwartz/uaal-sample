@@ -1,0 +1,11 @@
+{
+  "name": "@msschwartz/uaal-sample",
+  "version": "0.0.1",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:msschwartz/uaal-sample.git"
+  }
+}
